@@ -1,9 +1,9 @@
 {
-	"name": "ink-gradient",
+	"name": "elliots-ink-gradient",
 	"version": "2.0.0",
 	"description": "Gradient color component for Ink",
 	"license": "MIT",
-	"repository": "sindresorhus/ink-gradient",
+	"repository": "elliotfiske/ink-gradient",
 	"funding": "https://github.com/sponsors/sindresorhus",
 	"author": {
 		"name": "Sindre Sorhus",
